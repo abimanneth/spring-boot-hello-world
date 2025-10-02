@@ -1,0 +1,6 @@
+1. To set remote origin
+    git remote add origin https://github.com/abimanneth/spring-boot-hello-world.git
+
+2. To push to previously added origin
+   git push --set-upstream origin master
+   
